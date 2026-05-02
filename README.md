@@ -25,3 +25,21 @@ Open `index.html` directly in any modern web browser — no build step required.
 
 Email: hello@soup2bowl.com  
 Phone: (555) 800-SOUP
+
+---
+
+## Test
+
+| Feature | Status | URL |
+|--------|--------|-----|
+| Homepage | ✅ Working | https://soup2bowl.vercel.app |
+| Menu Page | ✅ Working | https://soup2bowl.vercel.app |
+| Order Form | ✅ Working | https://soup2bowl.vercel.app/#order |
+| Mobile Responsive | ✅ Working | https://soup2bowl.vercel.app |
+
+---
+
+## Deployment
+
+**Production:** https://soup2bowl.vercel.app
+**Status:** ![Deployment Status](https://vercel.com/soup2bowl)
